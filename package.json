@@ -1,0 +1,24 @@
+{
+  "name": "hospital-management-system-for-patients",
+  "version": "1.0.0",
+  "description": "A hospital management system focused on hospital patients. This app makes the required records of the patients distributed and readily available to the concerned hospital staff, and fosters the ease of registering and incorporating new patients into the system.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tboy-AK/hospital-management-system-for-patients.git"
+  },
+  "keywords": [
+    "hospital",
+    "patients",
+    "management"
+  ],
+  "author": "Tobi Akanji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tboy-AK/hospital-management-system-for-patients/issues"
+  },
+  "homepage": "https://github.com/Tboy-AK/hospital-management-system-for-patients#readme"
+}
